@@ -1,0 +1,48 @@
+<svg width="1400" height="1000" viewBox="0 0 1400 1000" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <rect width="1400" height="1000" rx="36" fill="url(#bg)"/>
+  <rect x="90" y="130" width="1220" height="740" rx="32" fill="#FFFFFF" fill-opacity="0.7"/>
+  <rect x="150" y="200" width="330" height="520" rx="26" fill="#E9F2FF"/>
+  <rect x="520" y="200" width="330" height="520" rx="26" fill="#FFE9DF"/>
+  <rect x="890" y="200" width="330" height="520" rx="26" fill="#EAF7F1"/>
+
+  <g transform="translate(210 260)">
+    <rect width="210" height="360" rx="22" fill="#3B4B5B"/>
+    <rect x="40" y="50" width="130" height="180" rx="14" fill="#5C6A77"/>
+    <rect x="72" y="16" width="66" height="40" rx="10" fill="#C9D8E6"/>
+    <rect x="78" y="250" width="54" height="72" rx="10" fill="#C9D8E6"/>
+    <rect x="94" y="10" width="22" height="26" rx="8" fill="#EFF5FF"/>
+    <rect x="64" y="84" width="82" height="18" rx="8" fill="#E8EDF3"/>
+    <rect x="64" y="114" width="82" height="18" rx="8" fill="#E8EDF3"/>
+  </g>
+
+  <g transform="translate(585 250)">
+    <rect width="200" height="380" rx="26" fill="#6E4B44"/>
+    <rect x="30" y="70" width="140" height="200" rx="18" fill="#F2B7A0"/>
+    <rect x="68" y="24" width="64" height="44" rx="12" fill="#F8E4D7"/>
+    <rect x="72" y="260" width="56" height="90" rx="12" fill="#FFEFE7"/>
+    <rect x="88" y="18" width="24" height="30" rx="8" fill="#FFFFFF"/>
+    <rect x="52" y="110" width="96" height="20" rx="10" fill="#FFF3EC"/>
+    <rect x="52" y="144" width="96" height="20" rx="10" fill="#FFF3EC"/>
+  </g>
+
+  <g transform="translate(960 270)">
+    <rect width="180" height="350" rx="26" fill="#2F5577"/>
+    <rect x="24" y="60" width="132" height="180" rx="16" fill="#7FB0E6"/>
+    <rect x="56" y="18" width="68" height="44" rx="12" fill="#DDEBFF"/>
+    <rect x="60" y="250" width="60" height="80" rx="12" fill="#E9F2FF"/>
+    <rect x="78" y="12" width="24" height="30" rx="8" fill="#FFFFFF"/>
+    <rect x="40" y="102" width="100" height="20" rx="10" fill="#EAF2FF"/>
+    <rect x="40" y="136" width="100" height="20" rx="10" fill="#EAF2FF"/>
+  </g>
+
+  <text x="120" y="170" font-family="Trebuchet MS, Segoe UI, sans-serif" font-size="28" fill="#2F5577">Haarpflegeprodukte</text>
+  <text x="120" y="210" font-family="Trebuchet MS, Segoe UI, sans-serif" font-size="18" fill="#4A5966">Hairspray, Wax, Pflege und Finish</text>
+
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1400" y2="1000" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#F2F7FF"/>
+      <stop offset="0.55" stop-color="#FFF1E8"/>
+      <stop offset="1" stop-color="#F1FAF6"/>
+    </linearGradient>
+  </defs>
+</svg>
